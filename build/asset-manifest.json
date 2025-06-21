@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2bb83bae.css",
+    "main.js": "/static/js/main.837ce6b5.js",
+    "static/media/CHARULATHA FINAL PROJECT.pdf": "/static/media/CHARULATHA FINAL PROJECT.ff4d84e16537cffb12e5.pdf",
+    "static/media/project1.png": "/static/media/project1.95bd7083e09e8cac7fda.png",
+    "static/media/about2.png": "/static/media/about2.f9b6e5db8bd8f5f1be2c.png",
+    "static/media/mmm.avif": "/static/media/mmm.87302e3c393b80d3b03b.avif",
+    "static/media/Charulatha.n (2).pdf": "/static/media/Charulatha.n (2).d780c1d24ed632d1e9a8.pdf",
+    "static/media/inter2.webp": "/static/media/inter2.f2817185e38341983149.webp",
+    "static/media/hero00.webp": "/static/media/hero00.c4a0e9dd04efd03faedd.webp",
+    "static/media/resume2.png": "/static/media/resume2.b025f3da30e20640e863.png",
+    "static/media/inter1.jpg": "/static/media/inter1.2b9e66a83129146d06fe.jpg",
+    "static/media/pims.jpg": "/static/media/pims.9aa3c81addceba0edc35.jpg",
+    "index.html": "/index.html",
+    "main.2bb83bae.css.map": "/static/css/main.2bb83bae.css.map",
+    "main.837ce6b5.js.map": "/static/js/main.837ce6b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bb83bae.css",
+    "static/js/main.837ce6b5.js"
+  ]
+}
